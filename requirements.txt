@@ -89,7 +89,6 @@ six==1.16.0
 soupsieve==2.5
 SQLAlchemy==1.4.31
 texttable==1.6.4
-unattended-upgrades==0.1
 uritemplate==4.1.1
 urllib3==1.26.5
 vboxapi==1.0
