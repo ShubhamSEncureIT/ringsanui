@@ -88,7 +88,6 @@ SecretStorage==3.3.1
 six==1.16.0
 soupsieve==2.5
 SQLAlchemy==1.4.31
-systemd-python==234
 texttable==1.6.4
 ubuntu-drivers-common==0.0.0
 ubuntu-pro-client==8001
